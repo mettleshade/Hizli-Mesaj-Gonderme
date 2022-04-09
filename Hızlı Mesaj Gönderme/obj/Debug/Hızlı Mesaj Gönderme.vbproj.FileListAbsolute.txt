@@ -1,0 +1,26 @@
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Hızlı Mesaj Gönderme.exe
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Hızlı Mesaj Gönderme.pdb
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı_Mesaj_Gönderme.Form1.resources
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı_Mesaj_Gönderme.Resources.resources
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.exe.licenses
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.exe
+C:\Users\hp\Desktop\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.pdb
+D:\Belgelerim\Belgelerim\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.exe
+D:\Belgelerim\Belgelerim\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.pdb
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.exe
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.pdb
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Hızlı Mesaj Gönderme.exe
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Hızlı Mesaj Gönderme.pdb
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı_Mesaj_Gönderme.Form1.resources
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı_Mesaj_Gönderme.Resources.resources
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.vbproj.GenerateResource.Cache
+D:\Belgelerim\Arsiv\Belgelerim\V.B. Uygulamalar 2010\Tamamlanmış Projeler\Genel Programlar\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.exe.licenses
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Hızlı Mesaj Gönderme.vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Yazı Yazdırma.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Yazı Yazdırma.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\YaziYazdirma.Form1.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\YaziYazdirma.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.exe.licenses
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.pdb

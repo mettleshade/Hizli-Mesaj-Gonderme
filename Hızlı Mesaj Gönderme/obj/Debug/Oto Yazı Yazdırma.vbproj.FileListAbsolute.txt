@@ -1,0 +1,8 @@
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Yazı Yazdırma.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\bin\Debug\Yazı Yazdırma.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\YaziYazdirma.Form1.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\YaziYazdirma.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Oto Yazı Yazdırma.vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.exe.licenses
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Hızlı Mesaj Gönderme FİNAL\Hızlı Mesaj Gönderme\Hızlı Mesaj Gönderme\obj\Debug\Yazı Yazdırma.pdb
